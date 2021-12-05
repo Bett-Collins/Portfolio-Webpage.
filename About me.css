@@ -28,6 +28,46 @@ body{
   border-radius: 3px;
 }
 
+.first {
+  display: flex;
+}
+
+.about>h2{
+ margin-left: 35%;
+ color: blue;
+}
+
+.about>p{
+  text-align: center;
+}
+.prof{
+ border: solid grey;
+ width: 300px;
+ height: 150px;
+ box-shadow: 1px 3px 3px black;
+ border: none;
+ margin: 30px;
+ color:black;
+ background-color:white;
+ border-radius: 4px;
+  
+}
+.personal{
+  display: flex;
+  
+}
+.prep {
+
+background-size: cover;
+height: 350px;
+background-image: url(images/Website-Design-Background.png);
+background-size: 50%;
+color: white;
+font-style: italic;
+font-weight: bold;
+
+}
+
 .personal{
   display: flex;
   
