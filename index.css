@@ -42,3 +42,32 @@ body {
 .image {
     margin-top: -60px;
   }
+  .container {
+    display: flex;
+    margin-left: 80px;
+    margin: 40px;
+   
+     
+   
+   
+   
+   }
+   .container h3 {
+   color:blue;
+   }
+   
+   
+   .con {
+     border: solid;
+     width: 300px;
+     height: 230px;
+     margin: 10px;
+     margin-left: 30px;
+     border-radius: 10px;
+     margin-left: 70px;
+     box-shadow: 2px 5px 10px white;
+     border: none;
+     text-align: center;
+   
+   }
+   
