@@ -70,4 +70,68 @@ body {
      text-align: center;
    
    }
-   
+   .one {
+    margin: 20px;
+    background-image: url(images/soft1.png);
+    
+    
+    height: 300px;
+    }
+    .one h3{
+      margin-left: 100px;
+      padding-top: 100px;
+      color: whitesmoke;
+      font-style: italic;
+      font-weight: bold;
+    }
+    
+    
+    
+    
+    
+    
+    
+    .contact {
+    width: 200px; 
+    height: 100px;
+      border: solid grey;
+    border-radius: 5px;
+    margin-left: 35%;
+    text-align: center;
+    margin-top: -125px;
+    
+    }
+
+    form {
+
+      align-items: center;
+      text-align: center;
+      border: none;
+      box-shadow: 1px 5px 10px rgb(67, 67, 121);
+      width: 200px;
+      height: 200px;
+      margin-top: -10%;
+      
+      
+      
+      }
+      form button {
+        background-color: blue;
+        color: white;
+        border-radius: 9px;
+      
+      }
+      #details button{
+        background-color: blue;
+        color: white;
+        margin-left: 40%;
+        padding: 10px;
+        border-radius: 0px 15px ;
+      }
+      .Code{
+        margin-left: 200PX;
+        padding: 60PX;
+      }
+      .Code h2{
+        color: blue;
+      }
