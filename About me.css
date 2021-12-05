@@ -32,3 +32,29 @@ body{
   display: flex;
   
 }
+
+.flogo{
+  display: flex;
+  margin: 1px;
+  padding-top: 10px;
+}
+.flogo h3 {
+  margin-top: 10px;
+
+}
+
+.Copy {
+  margin-top: -126px;
+}
+.Copy p {
+  display: flex;
+  margin-left: 300px;
+  margin-top: 90px;
+
+}
+.Copy img{
+ float: right;
+ margin: 30px;
+ margin-top: -40px;
+ 
+}
