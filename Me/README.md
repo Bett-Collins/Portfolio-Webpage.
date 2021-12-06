@@ -13,7 +13,7 @@ To access this project on your local files, you can clone it using these steps
 1. Open your terminal
 1. Use this command to clone `$ git clone
  
-https://github.com/Bett-Collins/Burger-Hot-Project
+https://github.com/Bett-Collins/Portfolio-Webpage..git
 
 1. This will clone the repository into your local folder.
 ### Technologies Used
@@ -21,23 +21,23 @@ https://github.com/Bett-Collins/Burger-Hot-Project
 1. CSS
 1. Git
 ### Live Site
-View [Live]  https://github.com/Bett-Collins/Burger-Hot-Project
+View [Live]  https://github.com/Bett-Collins/Portfolio-Webpage..git
 ### Licence
 This project is under the  [MIT](license) license
 
 This is a simple Portfolio-Webpage
 Website
 
-https://github.com/Bett-Collins/Burger-Hot-Project
-
+https://github.com/Bett-Collins/Portfolio-Webpage..git
 Language
 CSS
 Added by GitHub
 Portfolio-Webpage
 This is a simple Portfolio-Webpage.
 Website
-https://github.com/Bett-Collins/Burger-Hot-Project
+https://github.com/Bett-Collins/Portfolio-Webpage..git
 Language
 HTML
 Figma Design
 This is Portfolio-Webpage figma design link
+https://www.figma.com/file/wRbAxVB20tju4I7UrzWgjq/Untitled?node-id=5%3A94
