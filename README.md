@@ -39,5 +39,5 @@ https://github.com/Bett-Collins/Portfolio-Webpage..git
 Language
 HTML
 Figma Design
-This is Portfolio-Webpage figma design link
+This is Portfolio-Webpage figma design link for the design
 https://www.figma.com/file/wRbAxVB20tju4I7UrzWgjq/Untitled?node-id=5%3A94
