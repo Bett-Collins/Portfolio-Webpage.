@@ -68,7 +68,13 @@ font-style: italic;
 font-weight: bold;
 
 }
-
+.Code {
+ margin-left: 25%;
+ padding: 50px;
+}
+.Code h2{
+  color: blue;
+}
 .personal{
   display: flex;
   
